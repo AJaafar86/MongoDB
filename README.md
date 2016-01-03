@@ -1,4 +1,5 @@
 # MongoDB
+ This is an introduction to MongoDB, you can see the presentation [here](https://prezi.com/yfgagvntwdd1/mongodb-introduction/).
  
  AGENDA
 	
