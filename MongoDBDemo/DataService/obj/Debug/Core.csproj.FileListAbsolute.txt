@@ -1,0 +1,38 @@
+c:\users\joe\documents\visual studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\Core.dll
+c:\users\joe\documents\visual studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\Core.pdb
+c:\users\joe\documents\visual studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Bson.dll
+c:\users\joe\documents\visual studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Driver.dll
+c:\users\joe\documents\visual studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Bson.pdb
+c:\users\joe\documents\visual studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Driver.pdb
+c:\users\joe\documents\visual studio 2010\Projects\MongoDBTutorial\Core\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2010\Projects\MongoDBTutorial\Core\obj\Debug\Core.dll
+c:\users\joe\documents\visual studio 2010\Projects\MongoDBTutorial\Core\obj\Debug\Core.pdb
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\Core.dll
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\Core.pdb
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Bson.dll
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Driver.dll
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\obj\Debug\Core.dll
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\obj\Debug\Core.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Bson.xml
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Driver.xml
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Bson.pdb
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Bson.xml
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Driver.pdb
+C:\Users\joseph.stevens\Documents\Visual Studio 2010\Projects\MongoDBTutorial\Core\bin\Debug\MongoDB.Driver.xml
+D:\Pers\Cnam\SMB2014\Dev\MongoDBTutorial\MongoDBTutorial\Core\bin\Debug\Core.dll
+D:\Pers\Cnam\SMB2014\Dev\MongoDBTutorial\MongoDBTutorial\Core\bin\Debug\Core.pdb
+D:\Pers\Cnam\SMB2014\Dev\MongoDBTutorial\MongoDBTutorial\Core\bin\Debug\MongoDB.Bson.dll
+D:\Pers\Cnam\SMB2014\Dev\MongoDBTutorial\MongoDBTutorial\Core\bin\Debug\MongoDB.Driver.dll
+D:\Pers\Cnam\SMB2014\Dev\MongoDBTutorial\MongoDBTutorial\Core\bin\Debug\MongoDB.Bson.pdb
+D:\Pers\Cnam\SMB2014\Dev\MongoDBTutorial\MongoDBTutorial\Core\bin\Debug\MongoDB.Bson.xml
+D:\Pers\Cnam\SMB2014\Dev\MongoDBTutorial\MongoDBTutorial\Core\bin\Debug\MongoDB.Driver.pdb
+D:\Pers\Cnam\SMB2014\Dev\MongoDBTutorial\MongoDBTutorial\Core\bin\Debug\MongoDB.Driver.xml
+D:\Pers\Cnam\SMB2014\Dev\MongoDBTutorial\MongoDBTutorial\Core\obj\Debug\Core.dll
+D:\Pers\Cnam\SMB2014\Dev\MongoDBTutorial\MongoDBTutorial\Core\obj\Debug\Core.pdb
+D:\Pers\Work\Projects\MongoDB\MongoDBDemo\DataService\bin\Debug\Core.dll
+D:\Pers\Work\Projects\MongoDB\MongoDBDemo\DataService\bin\Debug\Core.pdb
+D:\Pers\Work\Projects\MongoDB\MongoDBDemo\DataService\bin\Debug\MongoDB.Bson.dll
+D:\Pers\Work\Projects\MongoDB\MongoDBDemo\DataService\bin\Debug\MongoDB.Driver.dll
+D:\Pers\Work\Projects\MongoDB\MongoDBDemo\DataService\obj\Debug\Core.dll
+D:\Pers\Work\Projects\MongoDB\MongoDBDemo\DataService\obj\Debug\Core.pdb
